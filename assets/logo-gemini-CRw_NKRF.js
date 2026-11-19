@@ -1,0 +1,1 @@
+var e=`/openconf-workshop-slides/assets/logo-claude.svg`,t=`/openconf-workshop-slides/assets/logo-codex.svg`,n=`/openconf-workshop-slides/assets/logo-gemini.svg`;export{t as n,e as r,n as t};
