@@ -1,0 +1,1 @@
+var e=`/openconf-workshop-slides/assets/qr-linkedin.svg`;export{e as t};

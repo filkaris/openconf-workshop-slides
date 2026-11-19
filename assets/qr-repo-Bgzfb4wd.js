@@ -1,1 +1,0 @@
-var e=`/openconf-workshop-slides/assets/qr-slides.svg`,t=`/openconf-workshop-slides/assets/qr-repo.svg`;export{e as n,t};
